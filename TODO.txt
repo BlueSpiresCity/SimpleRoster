@@ -1,0 +1,3 @@
+- Saving exp, fleshwounds, etc
+- tally points
+- deploy/undeploy
